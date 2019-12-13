@@ -1,0 +1,462 @@
+\providecommand*{\mcitethebibliography}{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+{\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{54}
+\providecommand*{\natexlab}[1]{#1}
+\providecommand*{\mciteSetBstSublistMode}[1]{}
+\providecommand*{\mciteSetBstMaxWidthForm}[2]{}
+\providecommand*{\mciteBstWouldAddEndPuncttrue}
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*{\mciteBstWouldAddEndPunctfalse}
+  {\let\EndOfBibitem\relax}
+\providecommand*{\mciteSetBstMidEndSepPunct}[3]{}
+\providecommand*{\mciteSetBstSublistLabelBeginEnd}[3]{}
+\providecommand*{\EndOfBibitem}{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}
+{(\emph{\alph{mcitesubitemcount}})}
+\mciteSetBstSublistLabelBeginEnd{\mcitemaxwidthsubitemform\space}
+{\relax}{\relax}
+
+\bibitem[{Adam-Bourdarios} \emph{et~al.}(2015){Adam-Bourdarios}, Cowan,
+  {Germain-Renaud}, Guyon, K{\'e}gl, and
+  Rousseau]{Adam-BourdariosHiggsMachineLearning2015}
+C.~{Adam-Bourdarios}, G.~Cowan, C.~{Germain-Renaud}, I.~Guyon, B.~K{\'e}gl and
+  D.~Rousseau, \emph{Journal of Physics: Conference Series}, 2015,
+  \textbf{664}, 072015\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Radovic \emph{et~al.}(2018)Radovic, Williams, Rousseau, Kagan,
+  Bonacorsi, Himmel, Aurisano, Terao, and Wongjirad]{radovic_machine_2018}
+A.~Radovic, M.~Williams, D.~Rousseau, M.~Kagan, D.~Bonacorsi, A.~Himmel,
+  A.~Aurisano, K.~Terao and T.~Wongjirad, \emph{Nature}, 2018, \textbf{560},
+  41--48\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Dey(2016)]{dey_machine_2016}
+A.~Dey, \emph{International Journal of Computer Science and Information
+  Technologies}, 2016, \textbf{7}, 6\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bishop(2006)]{BishopPatternRecognitionMachine2006}
+C.~Bishop, \emph{Pattern {{Recognition}} and {{Machine Learning}}},
+  {Springer-Verlag}, {New York}, 2006\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tan and Lim(2018/ed)]{Tanartificialintelligencerenaissance2018}
+K.-H. Tan and B.~P. Lim, \emph{APSIPA Transactions on Signal and Information
+  Processing}, 2018/ed, \textbf{7}, e6\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Baldi \emph{et~al.}(2014)Baldi, Sadowski, and
+  Whiteson]{baldi_searching_2014}
+P.~Baldi, P.~Sadowski and D.~Whiteson, \emph{Nature Communications}, 2014,
+  \textbf{5}, 4308\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Albertsson \emph{et~al.}(2018)Albertsson, Altoe, Anderson, Anderson,
+  Andrews, Espinosa, Aurisano, Basara, Bevan, Bhimji, Bonacorsi, Burkle,
+  Calafiura, Campanelli, Capps, Carminati, Carrazza, Chen, Childers, Coadou,
+  Coniavitis, Cranmer, David, Davis, De~Simone, Duarte, Erdmann, Eschle,
+  Farbin, Feickert, Castro, Fitzpatrick, Floris, Forti, {Garra-Tico}, Gemmler,
+  Girone, Glaysher, Gleyzer, Gligorov, Golling, Graw, Gray, Greenwood, Hacker,
+  Harvey, Hegner, Heinrich, Heintz, Hooberman, Junggeburth, Kagan, Kane,
+  Kanishchev, Karpi{\'n}ski, Kassabov, Kaul, Kcira, Keck, Klimentov,
+  Kowalkowski, Kreczko, Kurepin, Kutschke, Kuznetsov, K{\"o}hler, Lakomov,
+  Lannon, Lassnig, Limosani, Louppe, Mangu, Mato, Meenakshi, Meinhard, Menasce,
+  Moneta, Moortgat, Neubauer, Newman, Otten, Pabst, Paganini, Paulini, Perdue,
+  Perez, Picazio, Pivarski, Prosper, Psihas, Radovic, Reece, Rinkevicius,
+  Rodrigues, Rorie, Rousseau, Sauers, Schramm, Schwartzman, Severini, Seyfert,
+  Siroky, Skazytkin, Sokoloff, Stewart, Stienen, Stockdale, Strong, Sun, Thais,
+  Tomko, Upfal, Usai, Ustyuzhanin, Vala, Vasel, Vallecorsa, Verzetti,
+  {Vilas{\'i}s-Cardona}, Vlimant, Vukotic, Wang, Watts, Williams, Wu, Wunsch,
+  Yang, and Zapata]{AlbertssonMachineLearningHigh2018}
+K.~Albertsson, P.~Altoe, D.~Anderson, J.~Anderson, M.~Andrews, J.~P.~A.
+  Espinosa, A.~Aurisano, L.~Basara, A.~Bevan, W.~Bhimji, D.~Bonacorsi,
+  B.~Burkle, P.~Calafiura, M.~Campanelli, L.~Capps, F.~Carminati, S.~Carrazza,
+  Y.-f. Chen, T.~Childers, Y.~Coadou, E.~Coniavitis, K.~Cranmer, C.~David,
+  D.~Davis, A.~De~Simone, J.~Duarte, M.~Erdmann, J.~Eschle, A.~Farbin,
+  M.~Feickert, N.~F. Castro, C.~Fitzpatrick, M.~Floris, A.~Forti,
+  J.~{Garra-Tico}, J.~Gemmler, M.~Girone, P.~Glaysher, S.~Gleyzer, V.~Gligorov,
+  T.~Golling, J.~Graw, L.~Gray, D.~Greenwood, T.~Hacker, J.~Harvey, B.~Hegner,
+  L.~Heinrich, U.~Heintz, B.~Hooberman, J.~Junggeburth, M.~Kagan, M.~Kane,
+  K.~Kanishchev, P.~Karpi{\'n}ski, Z.~Kassabov, G.~Kaul, D.~Kcira, T.~Keck,
+  A.~Klimentov, J.~Kowalkowski, L.~Kreczko, A.~Kurepin, R.~Kutschke,
+  V.~Kuznetsov, N.~K{\"o}hler, I.~Lakomov, K.~Lannon, M.~Lassnig, A.~Limosani,
+  G.~Louppe, A.~Mangu, P.~Mato, N.~Meenakshi, H.~Meinhard, D.~Menasce,
+  L.~Moneta, S.~Moortgat, M.~Neubauer, H.~Newman, S.~Otten, H.~Pabst,
+  M.~Paganini, M.~Paulini, G.~Perdue, U.~Perez, A.~Picazio, J.~Pivarski,
+  H.~Prosper, F.~Psihas, A.~Radovic, R.~Reece, A.~Rinkevicius, E.~Rodrigues,
+  J.~Rorie, D.~Rousseau, A.~Sauers, S.~Schramm, A.~Schwartzman, H.~Severini,
+  P.~Seyfert, F.~Siroky, K.~Skazytkin, M.~Sokoloff, G.~Stewart, B.~Stienen,
+  I.~Stockdale, G.~Strong, W.~Sun, S.~Thais, K.~Tomko, E.~Upfal, E.~Usai,
+  A.~Ustyuzhanin, M.~Vala, J.~Vasel, S.~Vallecorsa, M.~Verzetti,
+  X.~{Vilas{\'i}s-Cardona}, J.-R. Vlimant, I.~Vukotic, S.-J. Wang, G.~Watts,
+  M.~Williams, W.~Wu, S.~Wunsch, K.~Yang and O.~Zapata, \emph{arXiv:1807.02876
+  [hep-ex, physics:physics, stat]}, 2018\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Deng \emph{et~al.}(2017)Deng, Li, and Das~Sarma]{deng_machine_2017}
+D.-L. Deng, X.~Li and S.~Das~Sarma, \emph{Physical Review B}, 2017,
+  \textbf{96}, 195145\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Carrasquilla and Melko(2017)]{carrasquilla_machine_2017}
+J.~Carrasquilla and R.~G. Melko, \emph{Nature Physics}, 2017, \textbf{13},
+  431--434\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Beach \emph{et~al.}(2018)Beach, Golubeva, and
+  Melko]{beach_machine_2018}
+M.~J.~S. Beach, A.~Golubeva and R.~G. Melko, \emph{Physical Review B}, 2018,
+  \textbf{97}, 045207\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wang and Zhai(2017)]{wang_machine_2017}
+C.~Wang and H.~Zhai, \emph{Physical Review B}, 2017, \textbf{96}, 144432\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Walters \emph{et~al.}(2019)Walters, Wei, and
+  Chen]{walters_machine_2019}
+M.~Walters, Q.~Wei and J.~Z.~Y. Chen, \emph{Physical Review E}, 2019,
+  \textbf{99}, 062701\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tarca \emph{et~al.}(2007)Tarca, Carey, Chen, Romero, and Dr{\u
+  a}ghici]{tarca_machine_2007}
+A.~L. Tarca, V.~J. Carey, X.-w. Chen, R.~Romero and S.~Dr{\u a}ghici,
+  \emph{PLoS Computational Biology}, 2007, \textbf{3}, e116\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Al-Jarrah \emph{et~al.}(2015)Al-Jarrah, Yoo, Muhaidat, Karagiannidis,
+  and Taha]{al-jarrah_efficient_2015}
+O.~Y. Al-Jarrah, P.~D. Yoo, S.~Muhaidat, G.~K. Karagiannidis and K.~Taha,
+  \emph{Big Data Research}, 2015, \textbf{2}, 87--93\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kner \emph{et~al.}(2009)Kner, Chhun, Griffis, Winoto, and
+  Gustafsson]{kner_super-resolution_2009}
+P.~Kner, B.~B. Chhun, E.~R. Griffis, L.~Winoto and M.~G.~L. Gustafsson,
+  \emph{Nature Methods}, 2009, \textbf{6}, 339--342\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lange \emph{et~al.}(1995)Lange, Sherwin, Hagan, and
+  Gull]{Langebasicsimmunofluorescencevideomicroscopy1995}
+B.~M.~H. Lange, T.~Sherwin, I.~M. Hagan and K.~Gull, \emph{Trends in Cell
+  Biology}, 1995, \textbf{5}, 328--332\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Crocker and Grier(1996)]{crocker_methods_1996}
+J.~C. Crocker and D.~G. Grier, \emph{Journal of Colloid and Interface Science},
+  1996, \textbf{179}, 298--310\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kellay(2017)]{kellay_hydrodynamics_2017}
+H.~Kellay, \emph{Physics of Fluids}, 2017, \textbf{29}, 111113\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Baumgartl and Bechinger(2005)]{baumgartl_limits_2005}
+J.~Baumgartl and C.~Bechinger, \emph{Europhysics Letters (EPL)}, 2005,
+  \textbf{71}, 487--493\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Conte \emph{et~al.}(2004)Conte, Foggia, Sansone, and
+  Vento]{conte_thirty_2004}
+D.~Conte, P.~Foggia, C.~Sansone and M.~Vento, \emph{International Journal of
+  Pattern Recognition and Artificial Intelligence}, 2004, \textbf{18},
+  265--298\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Erhan \emph{et~al.}(2014)Erhan, Szegedy, Toshev, and
+  Anguelov]{ErhanScalableObjectDetection2014}
+D.~Erhan, C.~Szegedy, A.~Toshev and D.~Anguelov, Proceedings of the {{IEEE
+  Conference}} on {{Computer Vision}} and {{Pattern Recognition}}, 2014, pp.
+  2147--2154\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Blaschko and Lampert(2008)]{BlaschkoLearningLocalizeObjects2008}
+M.~B. Blaschko and C.~H. Lampert, Computer {{Vision}} \textendash{} {{ECCV}}
+  2008, 2008, pp. 2--15\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Yurke \emph{et~al.}(1993)Yurke, Pargellis, Kovacs, and
+  Huse]{yurke_coarsening_1993}
+B.~Yurke, A.~N. Pargellis, T.~Kovacs and D.~A. Huse, \emph{Physical Review E},
+  1993, \textbf{47}, 1525--1530\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sven{\u s}ek and {\u Z}umer(2002)]{svensek_hydrodynamics_2002}
+D.~Sven{\u s}ek and S.~{\u Z}umer, \emph{Physical Review E}, 2002, \textbf{66},
+  021712\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sven{/u s}ek and {\u Z}umer(2003)]{svensek_hydrodynamics_2003}
+D.~Sven{/u s}ek and S.~{\u Z}umer, \emph{Physical Review Letters}, 2003,
+  \textbf{90}, 155501\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Radzihovsky(2015)]{radzihovsky_anomalous_2015}
+L.~Radzihovsky, \emph{Physical Review Letters}, 2015, \textbf{115},
+  247801\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pleiner(1988)]{pleiner_dynamics_1988}
+H.~Pleiner, \emph{Physical Review A}, 1988, \textbf{37}, 3986--3992\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pargellis \emph{et~al.}(1992)Pargellis, Finn, Goodby, Panizza, Yurke,
+  and Cladis]{pargellis_defect_1992}
+A.~N. Pargellis, P.~Finn, J.~W. Goodby, P.~Panizza, B.~Yurke and P.~E. Cladis,
+  \emph{Physical Review A}, 1992, \textbf{46}, 7765--7776\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pargellis \emph{et~al.}(1994)Pargellis, Green, and
+  Yurke]{pargellis_planar_1994}
+A.~N. Pargellis, S.~Green and B.~Yurke, \emph{Physical Review E}, 1994,
+  \textbf{49}, 4250--4257\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Oswald \emph{et~al.}(2005)Oswald, Pieranski, and
+  Pieranski]{oswald_nematic_2005}
+P.~Oswald, P.~Pieranski and P.~Pieranski, \emph{Nematic and {Cholesteric}
+  {Liquid} {Crystals} : {Concepts} and {Physical} {Properties} {Illustrated} by
+  {Experiments}}, CRC Press, 2005\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Stannarius and Harth(2016)]{stannarius_defect_2016}
+R.~Stannarius and K.~Harth, \emph{Physical Review Letters}, 2016, \textbf{117},
+  157801\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Chattham \emph{et~al.}(2010)Chattham, Korblova, Shao, Walba,
+  Maclennan, and Clark]{chattham_triclinic_2010}
+N.~Chattham, E.~Korblova, R.~Shao, D.~M. Walba, J.~E. Maclennan and N.~A.
+  Clark, \emph{Physical Review Letters}, 2010, \textbf{104}, 067801\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Harth(2016)]{harth_episodes_2016}
+K.~Harth, \emph{PhD thesis}, Otto-von-Guericke-Universität Magdeburg,
+  Magdeburg, Germany, 2016\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Loft and DeGrand(1987)]{loft_numerical_1987}
+R.~Loft and T.~A. DeGrand, \emph{Physical Review B}, 1987, \textbf{35},
+  8528--8541\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Jeli{\' c} and Cugliandolo(2011)]{jelic_quench_2011}
+A.~Jeli{\' c} and L.~F. Cugliandolo, \emph{Journal of Statistical Mechanics:
+  Theory and Experiment}, 2011, \textbf{2011}, P02032\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tobochnik and Chester(1979)]{tobochnik_monte_1979}
+J.~Tobochnik and G.~V. Chester, \emph{Physical Review B}, 1979, \textbf{20},
+  3761--3769\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Trinh(2018)]{trinh_darkflow_2018}
+H.~T. Trinh, \emph{Darkflow}, GitHub, 2018\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Redmon and Farhadi(2016)]{redmon_yolo9000:_2016}
+J.~Redmon and A.~Farhadi, \emph{arXiv:1612.08242 [cs]}, 2016\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Redmon \emph{et~al.}(2015)Redmon, Divvala, Girshick, and
+  Farhadi]{redmon_you_2015}
+J.~Redmon, S.~Divvala, R.~Girshick and A.~Farhadi, \emph{arXiv:1506.02640
+  [cs]}, 2015\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Girshick \emph{et~al.}(2013)Girshick, Donahue, Darrell, and
+  Malik]{girshick_rich_2013}
+R.~Girshick, J.~Donahue, T.~Darrell and J.~Malik, \emph{arXiv:1311.2524 [cs]},
+  2013\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Girshick(2015)]{girshick_fast_2015}
+R.~Girshick, \emph{arXiv:1504.08083 [cs]}, 2015\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ren \emph{et~al.}(2017)Ren, He, Girshick, and Sun]{ren_faster_2017}
+S.~Ren, K.~He, R.~Girshick and J.~Sun, \emph{IEEE Transactions on Pattern
+  Analysis and Machine Intelligence}, 2017, \textbf{39}, 1137--1149\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lawrence \emph{et~al.}(1997)Lawrence, Giles, and
+  Tsoi]{lawrence_lessons_1997}
+S.~Lawrence, C.~L. Giles and A.~C. Tsoi, {AAAI}/{IAAI}, 1997, pp.
+  540--545\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lever \emph{et~al.}(2016)Lever, Krzywinski, and
+  Altman]{lever_model_2016}
+J.~Lever, M.~Krzywinski and N.~Altman, \emph{Nature Methods}, 2016,
+  \textbf{13}, 703--704\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Aksoy and Haralick(2001)]{aksoy_feature_2001}
+S.~Aksoy and R.~M. Haralick, \emph{Pattern Recognition Letters}, 2001,
+  \textbf{22}, 563--582\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Goodfellow \emph{et~al.}(2014)Goodfellow, Shlens, and
+  Szegedy]{goodfellow_explaining_2014}
+I.~J. Goodfellow, J.~Shlens and C.~Szegedy, \emph{arXiv:1412.6572 [cs, stat]},
+  2014\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bishop(1995)]{bishop_training_1995}
+C.~M. Bishop, \emph{Neural Computation}, 1995, \textbf{7}, 108--116\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kaur \emph{et~al.}(2014)Kaur, Kumar, Walia, and
+  Sandhu]{kaur_periodic_2014}
+M.~Kaur, D.~Kumar, E.~Walia and M.~Sandhu, \emph{International Journal of
+  Computer \& Communication Technology}, 2014, \textbf{3}, 5\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Koppel and Schler(2006)]{koppel_importance_2006}
+M.~Koppel and J.~Schler, \emph{Computational Intelligence}, 2006, \textbf{22},
+  100--109\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Everingham \emph{et~al.}(2010)Everingham, Van~Gool, Williams, Winn,
+  and Zisserman]{everingham_pascal_2010}
+M.~Everingham, L.~Van~Gool, C.~K.~I. Williams, J.~Winn and A.~Zisserman,
+  \emph{International Journal of Computer Vision}, 2010, \textbf{88},
+  303--338\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Chinchor(1992)]{chinchor_muc-4_1992}
+N.~Chinchor, Proceedings of the 4th {Conference} on {Message} {Understanding},
+  Stroudsburg, PA, USA, 1992, pp. 22--29\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Giomi \emph{et~al.}(2014)Giomi, Bowick, Mishra, Sknepnek, and
+  Cristina~Marchetti]{GiomiDefectdynamicsactive2014}
+L.~Giomi, M.~J. Bowick, P.~Mishra, R.~Sknepnek and M.~Cristina~Marchetti, 2014,
+  \textbf{372}, 20130365\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[DeCamp \emph{et~al.}(2015)DeCamp, Redner, Baskaran, Hagan, and
+  Dogic]{DeCampOrientationalordermotile2015}
+S.~J. DeCamp, G.~S. Redner, A.~Baskaran, M.~F. Hagan and Z.~Dogic, 2015,
+  \textbf{14}, 1110--1115\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Meijering \emph{et~al.}(2009)Meijering, Dzyubachyk, Smal, and van
+  Cappellen]{MeijeringTrackingcelldevelopmental2009}
+E.~Meijering, O.~Dzyubachyk, I.~Smal and W.~A. van Cappellen, 2009,
+  \textbf{20}, 894--902\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}
